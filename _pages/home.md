@@ -13,8 +13,8 @@ permalink: /
 }
 
 .logo {
-  width: 120px;
-  height: 120px;
+  width: 160px;
+  height: 160px;
   margin: 0 auto 30px;
   display: block;
 }
