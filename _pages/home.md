@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <center>
-<img src="/assets/logo.png" alt="Logo" width="120">
+<img src="logo.png" alt="Logo" width="120">
 
 # **Passwd!**
 
